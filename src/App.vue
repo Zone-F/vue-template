@@ -15,6 +15,11 @@
 import AsideMenu from './components/AsideMenu'  
 export default {
   name: "App",
+  data(){
+    return{
+      a:"what is love"
+    }
+  },
   components: {AsideMenu},
 };
 </script>

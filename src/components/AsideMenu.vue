@@ -13,6 +13,9 @@
           <el-menu-item index="/imglazy">
             <span slot="title">自定义指令--图片懒加载</span>
           </el-menu-item>
+          <el-menu-item index="/sync">
+            <span slot="title">.sync -- 语法糖</span>
+          </el-menu-item>
         </el-menu>
       </el-col>
     </el-row>
