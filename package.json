@@ -11,7 +11,7 @@
     "async-validator": "^3.3.0",
     "core-js": "^3.6.4",
     "element-ui": "^2.13.2",
-    "loader-utils": "^2.0.0",
+    "loader-utils": "^2.0.3",
     "schema-utils": "^2.7.0",
     "vue": "^2.6.11",
     "vue-router": "^3.3.4",
